@@ -45,3 +45,8 @@ En este proyecto buscamos el objetivo de crear un sistema que revolucione el pro
 20.Gestión de Cursos y Años Nuevos
 
 21.Asignacion de diversos roles 
+
+22.Plazo de 5 días para pagar inscripción.
+
+23.Plazo de 5 días para pagar inscripción.
+
