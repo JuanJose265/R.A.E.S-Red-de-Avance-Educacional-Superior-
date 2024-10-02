@@ -2,7 +2,7 @@
 
 En este proyecto buscamos el objetivo de crear un sistema que revolucione el proceso de gestión en el área estudiantil para facilitar los tediosos métodos arcaicos para maestros, padres y la gestión administrativa.
 
-                                       A continuación, se mostrarán detalladamente las funciones del sistema
+                         A continuación, se mostrarán detalladamente las funciones del sistema
 
 1.Gestión de Inscripción y Reinscripción
 
