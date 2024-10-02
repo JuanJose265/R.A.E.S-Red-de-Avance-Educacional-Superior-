@@ -43,3 +43,5 @@ En este proyecto buscamos el objetivo de crear un sistema que revolucione el pro
 19.Registro de Estudiantes Graduados
 
 20.Gestión de Cursos y Años Nuevos
+
+21.Asignacion de diversos roles 
