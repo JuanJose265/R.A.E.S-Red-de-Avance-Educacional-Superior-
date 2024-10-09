@@ -31,4 +31,4 @@ A continuación, se detallan las funciones principales del sistema:
 
 ---
 
-Esto incluye las funciones principales del sistema, sin errores y con una estructura más clara.
+
