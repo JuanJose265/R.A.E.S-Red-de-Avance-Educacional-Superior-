@@ -1,52 +1,34 @@
-                                                  Sistema de Gestión Escolar
+Aquí tienes la lista revisada y corregida:
 
-En este proyecto buscamos el objetivo de crear un sistema que revolucione el proceso de gestión en el área estudiantil para facilitar los tediosos métodos arcaicos para maestros, padres y la gestión administrativa.
+---
 
-                         A continuación, se mostrarán detalladamente las funciones del sistema..
+**Sistema de Gestión Escolar**
 
-1.Gestión de Inscripción y Reinscripción
+El objetivo de este proyecto es crear un sistema que revolucione el proceso de gestión estudiantil, facilitando los métodos arcaicos para maestros, padres y la administración. Este sistema optimiza las tareas diarias y mejora la eficiencia en el manejo de datos escolares.
 
-2.Generación de Reportes
+A continuación, se detallan las funciones principales del sistema:
 
-3.Gestión de Usuarios
+1. **Gestión de Inscripción y Reinscripción**
+2. **Gestión de Usuarios**
+3. **Barra de Estado de los Profesores:** Muestra el estado actual de cada profesor (activo/inactivo, grado en el que imparten clase).
+4. **Gestión de Aulas y Horarios**
+5. **Seguimiento de Planes de Estudio**
+6. **Gestión de Eventos y Actividades**
+7. **Generación de Boletines**
+8. **Seguridad y Backups**
+9. **Registro de Calificaciones**
+10. **Control de Asistencia**
+11. **Gestión de Materias o Módulos**
+12. **Generación de Reportes Académicos**
+13. **Seguimiento de Progreso Académico**
+14. **Gestión de Horarios de Clases**
+15. **Acceso a Planes de Estudio**
+16. **Consulta del Historial Académico del Alumno**
+17. **Acceso al Inventario de Recursos**
+18. **Gestión de Cursos y Años Nuevos**
+19. **Asignación de Diversos Roles**
+20. **Plazo de 5 días para pagar inscripción**
 
-4.Barra de Estado de los Profesores: Muestra el estado actual de cada profesor (activo/inactivo, grado en el que imparten clase).
+---
 
-5.Gestión de Aulas y Horarios
-
-6.Seguimiento de Planes de Estudio
-
-7.Gestión de Eventos y Actividades
-
-8.Generación de Boletines
-
-9.Seguridad y Backups
-
-10.Registro de Calificaciones
-
-11.Control de Asistencia
-
-12.Gestión de Materias o Módulos
-
-13.Generación de Reportes Académicos
-
-14.Seguimiento de Progreso Académico
-
-15.Gestión de Horarios de Clases
-
-16.Acceso a Planes de Estudio
-
-17.Consulta de Historial Académico del Alumno
-
-18.Acceso al Inventario de Recursos
-
-19.Registro de Estudiantes Graduados
-
-20.Gestión de Cursos y Años Nuevos
-
-21.Asignacion de diversos roles 
-
-22.Plazo de 5 días para pagar inscripción.
-
-23.Plazo de 5 días para pagar inscripción.
-
+Esto incluye las funciones principales del sistema, sin errores y con una estructura más clara.
