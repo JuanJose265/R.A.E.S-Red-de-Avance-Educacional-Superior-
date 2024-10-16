@@ -44,4 +44,4 @@ El objetivo de este proyecto es crear un sistema que revolucione el proceso de g
 4. **Acceso al Inventario de Recursos**
 5. **Plazo de 5 días para pagar inscripción**
 
-Espero que esto te sea útil. ¡Avísame si necesitas algo más!
+
