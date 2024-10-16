@@ -1,6 +1,5 @@
-Aquí tienes la lista revisada y corregida:
 
----
+
 
 **R.A.E.S-Red-de-Avance-Educacional-Superior**
 
